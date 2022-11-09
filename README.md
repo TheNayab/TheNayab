@@ -24,6 +24,7 @@
 having both Computer hardware and Software engineering knowledge.❓ I am a MERN STACK (Reactjs , Nodejs) DEVELOPER interested in building websites 🌐(web applications). I want to work in a `conducive environment` 🧑‍🏢 where hard work and honest efforts are appreciated and rewarded.
 
 <br/>  
+<hr/>
 
 
 ## My Skill Set  
