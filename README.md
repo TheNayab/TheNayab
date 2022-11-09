@@ -80,7 +80,7 @@ having both Computer hardware and Software engineering knowledge.❓ I am a MERN
 <br/>  
 
 
-## Recent Blog Posts  
+## Views on Profile  
   
 
 <br/>  
